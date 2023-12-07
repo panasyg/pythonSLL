@@ -18,4 +18,4 @@ apihandler = APIHandler(endpoint)
 apihandler.set_api_key(api_key)
 
 # Fetch data using APIHandler
-print(apihandler.fetch_data("monitors"))
+print(apihandler.fetch_data("users"))

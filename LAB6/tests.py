@@ -2,7 +2,7 @@ import sys
 import unittest
 import logging
 # Add the parent directory to the sys.path if not already present
-sys.path.insert(0, '../lab2')
+sys.path.insert(0, '../LAB2')
 
 # Now you can import your Calculator and other classes
 from operations.calculator import Calculator, Sum, Subtraction, Multiplication, Division, Power, SquareRoot
