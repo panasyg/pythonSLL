@@ -1,13 +1,22 @@
-[31m
+[34m
 
-**      ****  ******  **
-**      ****  ******  **
-**      ******      ****
-**      ******      ****
-**  **  ******  **  ****
-**  **  ******  **  ****
-****  ********    ******
-****  ********    ******
-**      ****  ****  ****
-**      ****  ****  ****
+
+DDDDDDDDD   DDDDDD         DDDDDDDDDDDDDDDDDD   DDDDDDDDDDDD      DDDDDDDDDDDDDDDDDDDDDDDD         DDDDDD
+DDDDDDDDD   DDDDDD         DDDDDDDDDDDDDDDDDD   DDDDDDDDDDDD      DDDDDDDDDDDDDDDDDDDDDDDD         DDDDDD
+DDDDDDDDD   DDDDDD         DDDDDDDDDDDDDDDDDD   DDDDDDDDDDDD      DDDDDDDDDDDDDDDDDDDDDDDD         DDDDDD
+DDD         DDDDDDDDD         DDDDDDDDD            DDDDDD         DDDDDD      DDD      DDDDDD         DDDDDD
+DDD         DDDDDDDDD         DDDDDDDDD            DDDDDD         DDDDDD      DDD      DDDDDD         DDDDDD
+DDD         DDDDDDDDD         DDDDDDDDD            DDDDDD         DDDDDD      DDD      DDDDDD         DDDDDD
+DDD   DDD   DDDDDDDDD   DDD   DDDDDDDDDDDDDDD      DDDDDDDDDDDD      DDD      DDD      DDD   DDDDDDDDD   DDD
+DDD   DDD   DDDDDDDDD   DDD   DDDDDDDDDDDDDDD      DDDDDDDDDDDD      DDD      DDD      DDD   DDDDDDDDD   DDD
+DDD   DDD   DDDDDDDDD   DDD   DDDDDDDDDDDDDDD      DDDDDDDDDDDD      DDD      DDD      DDD   DDDDDDDDD   DDD
+DDD      DDDDDDDDDDDDDDD   DDDDDDDDDDDD            DDDDDD   DDD      DDD      DDD      DDD         DDD
+DDD      DDDDDDDDDDDDDDD   DDDDDDDDDDDD            DDDDDD   DDD      DDD      DDD      DDD         DDD
+DDD      DDDDDDDDDDDDDDD   DDDDDDDDDDDD            DDDDDD   DDD      DDD      DDD      DDD         DDD
+DDD   DDDDDD   DDDDDDDDD         DDDDDDDDDDDDDDDDDD   DDDDDD      DDDDDDDDD      DDD      DDD         DDD
+DDD   DDDDDD   DDDDDDDDD         DDDDDDDDDDDDDDDDDD   DDDDDD      DDDDDDDDD      DDD      DDD         DDD
+DDD   DDDDDD   DDDDDDDDD         DDDDDDDDDDDDDDDDDD   DDDDDD      DDDDDDDDD      DDD      DDD         DDD
+DDD
+DDD
+DDD
 [0m
