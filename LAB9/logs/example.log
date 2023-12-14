@@ -1,0 +1,6 @@
+INFO:root:running calculator
+INFO:root:running calculator
+INFO:root:running figure art
+INFO:root:running web service
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): random-data-api.com:443
+DEBUG:urllib3.connectionpool:https://random-data-api.com:443 "GET /api/v2/users?size=10 HTTP/1.1" 200 None
