@@ -4,3 +4,18 @@ INFO:root:running figure art
 INFO:root:running web service
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): random-data-api.com:443
 DEBUG:urllib3.connectionpool:https://random-data-api.com:443 "GET /api/v2/users?size=10 HTTP/1.1" 200 None
+INFO:root:running csv display
+ERROR:root:uncaugh error in  csv display
+INFO:root:running csv display
+ERROR:root:uncaugh error in  csv display
+INFO:root:running csv display
+ERROR:root:uncaugh error in  csv display
+INFO:root:running csv display
+ERROR:root:uncaugh error in  csv display
+DEBUG:root:exit runner
+INFO:root:running web service
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): random-data-api.com:443
+DEBUG:urllib3.connectionpool:https://random-data-api.com:443 "GET /api/v2/users?size=10 HTTP/1.1" 200 None
+INFO:root:running custom text art
+ERROR:root:uncaugh error in  custom text art
+DEBUG:root:exit runner
